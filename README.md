@@ -3,7 +3,12 @@
 
 Printable Planning Poker Cards
 
-# About
+### About
 
-This project provides printable planning poker cards build with nothing
-more than HTML and CSS.
+This project provides printable planning poker cards built with nothing
+more than HTML and CSS. Simply load `src/cards.html` in your browser and
+print the page.
+
+### Screenshots
+
+![Cards](screenshots/cards.png)
