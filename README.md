@@ -1,7 +1,7 @@
 3PC
 ===
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+*Mirrors: [GitHub] ~ [GitLab]*
 
 Printable Planning Poker Cards
 
@@ -13,4 +13,5 @@ print the page and cut out the cards.
 
 ### Screenshots
 
-![Cards](screenshots/cards.png)
+[GitHub]: https://github.com/Johennes/3PC
+[GitLab]: https://gitlab.com/cherrypicker/3PC
